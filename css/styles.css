@@ -1,0 +1,139 @@
+#name {
+  text-align: center;
+  font-size: 300%;
+}
+#info {
+  text-align: center;
+  font-size: 100%;
+  margin-top: 0px;
+}
+#skills {
+  font-size: 100%;
+}
+#skillsli {
+  margin-top: 0px;
+  list-style-type: none;
+  column-count: 4;
+}
+#education {
+  font-size: 100%;
+}
+#relevantcoursework {
+  font-size: 100%;
+}
+#relevantcourseworkli {
+  column-count: 3;
+}
+#c {
+  color: aqua;
+  text-align: center;
+  font-size: 100px;
+  width: 100%;
+}
+#f {
+  background-image: url(../media/flowers.jpg);
+  background-attachment: fixed;
+  background-repeat: repeat;
+  width: 100%;
+}
+body {  
+  position: relative;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+#m {
+  text-align: center;
+}
+#k {
+  width: 100%;
+}
+#n {
+  color: #8A2BE2;
+  text-align: center;
+  font-size: 70px;
+}
+#h {
+  font-size: 50px;
+  text-align: center;
+  color: #0000FF;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#o {
+  width: 100%;
+}
+#main-bar {
+  background-color: pink;
+  width: 100%;
+  position: relative;
+	
+}
+#nav-list {
+  overflow: hidden;
+}
+#nav-list > ul {
+  list-style-type: none;
+  position: relative;
+  margin: 0;
+  float: left;
+  left: 50%;
+}
+#nav-list > ul > li {
+  text-decoration: none;
+  position: relative;
+  float: left;
+  padding: 10px 20px;
+}
+#nav-list > ul > li > a {
+  text-decoration: none;
+  color: #fff;
+  position: relative;
+  display: block;
+  float:left;
+  right: 50%;
+}
+#wrapper {
+  width: 730px;
+  height: 530px;
+  background-color: #3498db;
+  margin:0 auto;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+#map {
+  width: 700px;
+  height: 500px;
+  background-color: #ccc;
+  margin: 15px auto;
+}
+.map #map {
+  height: 100%;
+}
+
+.map html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 2%;
+}
+
+#welcome {
+  width: 70%;
+}
+
+.navigation{
+	font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+	font-weight: 300;
+  text-align: center;
+  font-size: small;
+}
