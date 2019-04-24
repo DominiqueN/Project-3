@@ -30,6 +30,18 @@
   font-size: 100px;
   width: 100%;
 }
+#e {
+  color: aqua;
+  text-align: center;
+  font-size: 100px;
+  width: 100%;
+}
+#g {
+  color: aqua;
+  text-align: center;
+  font-size: 100px;
+  width: 100%;
+}
 #f {
   background-image: url(../media/flowers.jpg);
   background-attachment: fixed;
