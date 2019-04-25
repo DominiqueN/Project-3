@@ -123,29 +123,3 @@ body {
   background-color: #ccc;
   margin: 15px auto;
 }
-.map #map {
-  height: 100%;
-}
-
-.map html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 2%;
-}
-
-#welcome {
-  width: 70%;
-}
-
-.navigation{
-	font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
-	font-weight: 300;
-  text-align: center;
-  font-size: small;
-}
