@@ -1,0 +1,31 @@
+@media screen and (max-width: 992px) {
+	body{
+		background-color: pink;
+		font-size: 10%;	
+	}
+#f {
+  background-image: url(../media/flowers.jpg);
+  background-attachment: fixed;
+  background-repeat: repeat;
+  width: 50%;
+}
+}
+@media screen and (min-width: 600px) {
+#c {
+  color: green;
+  text-align: center;
+  font-size: 65px;
+  width: 100%;
+}
+#e {
+  color: blue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  width: 100%;
+}
+#info {
+  text-align: center;
+  font-size: 100%;
+  margin-top: 5px;
+}
+}
